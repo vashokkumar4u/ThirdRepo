@@ -68,5 +68,14 @@ namespace Services.Localization.Properties {
                 return ResourceManager.GetString("FirstString", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to From External Git.
+        /// </summary>
+        public static string SecondString {
+            get {
+                return ResourceManager.GetString("SecondString", resourceCulture);
+            }
+        }
     }
 }

@@ -120,4 +120,7 @@
   <data name="FirstString" xml:space="preserve">
     <value>Show Me!</value>
   </data>
+  <data name="SecondString" xml:space="preserve">
+    <value>From External Git</value>
+  </data>
 </root>
