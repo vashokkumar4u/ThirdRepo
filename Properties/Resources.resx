@@ -123,4 +123,7 @@
   <data name="SecondString" xml:space="preserve">
     <value>From External Git</value>
   </data>
+  <data name="ThirdString" xml:space="preserve">
+    <value>Testing Retain History</value>
+  </data>
 </root>
